@@ -1,57 +1,42 @@
 <div align="center">
-  <img src="https://github.com/Skyssy7/Skyssy7/blob/main/assets/banner.gif" width="100%" alt="Banner"/>
-  <h1>👋 Hey, I'm Skyssy</h1>
+  <h1>👋 Salut, moi c'est Skyssy7</h1>
   
   <p>
-    <strong>Full-Stack Developer & Security Enthusiast</strong><br>
-    Passionné par la cybersécurité, le chiffrement et les solutions techniques élégantes.
+    <strong>Développeur passionné</strong><br>
+    J'aime créer des outils utiles, sécurisés et qui marchent bien. Curieux de tout : du web à la cybersécurité en passant par la programmation système.
   </p>
-
-  <a href="https://github.com/Skyssy7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
 ---
 
-### 🚀 Projets phares
-
-**🔒 LYNX** — *Outil de chiffrement ultra-résistant*
-- Chiffrement local ultra-sécurisé avec mot de passe maître
-- Interface simple et intuitive
-- **Python** • **Cryptographie** • **Sécurité**
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Skyssy7&repo=LYNX&theme=tokyonight)](https://github.com/Skyssy7/LYNX)
-
----
-
-### 🛠️ Technologies & Outils
+### 🛠️ Technologies
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
 ---
 
-### 📊 Stats
+### 🚀 Mes projets
 
-![Skyssy7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyssy7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skyssy7&layout=compact&theme=tokyonight&hide_border=true)
+**🔒 LYNX** — *Outil de chiffrement de fichiers simple et sécurisé*
+- Chiffrement local avec un mot de passe maître
+- Interface claire et facile à utiliser
+- Conçu pour protéger vos fichiers en quelques clics[](https://github-readme-stats.vercel.app/api/pin/?username=Skyssy7&repo=LYNX&theme=tokyonight)](https://github.com/Skyssy7/LYNX)
 
 ---
 
-### 🌱 Currently working on
-- Amélioration continue de **LYNX**
-- Projets en cybersécurité & outils open-source
-- Apprentissage approfondi de **Rust** et **Go**
+### 📊 Mes stats GitHub
+
+![](https://github-readme-stats.vercel.app/api?username=Skyssy7&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Skyssy7&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
