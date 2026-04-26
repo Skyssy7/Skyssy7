@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/Skyssy7/Skyssy7/blob/main/assets/banner.gif" width="100%" alt="Banner"/>
-  <h1>👋 Hey, I'm Skyssy7</h1>
+  <h1>👋 Hey, I'm Skyssy</h1>
   
   <p>
     <strong>Full-Stack Developer & Security Enthusiast</strong><br>
