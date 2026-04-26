@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Salut, moi c'est Skyssy7</h1>
+  <h1>👋 Salut, moi c'est Skyssy</h1>
   
   <p>
     <strong>Développeur passionné</strong><br>
